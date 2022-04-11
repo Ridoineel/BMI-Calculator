@@ -1,5 +1,5 @@
 # BMI Calculator
-> make with ***Flutter (dart)***
+> made with ***Flutter (dart)***
 
 ![BMI Calculator UI](/lib/assets/images/bmi-calculator-ui.png)
 
